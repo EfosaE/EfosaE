@@ -7,10 +7,10 @@ With expertise in Node.js, Express.js, Nest.js and React, I specialize in crafti
 
 
 - 📧 You can contact me at **osamwonyiefosa02@gmail.com**
-- 🚀 I'm currently working on building scalable backend systems using NestJS
+- 🚀 I'm currently working on building scalable backend systems using NestJS and Golang
 - 🧠 I'm expanding my knowledge in software architecture, design patterns, and cloud technologies by reading Domain Drive Development by Eric Evans
 - 🤝 I'm open to collaborating on fullstack projects, microservices, and APIs
-- ⚡ Ask me about React, Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, and RESTful API design
+- ⚡ Ask me about React, Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, RESTful API design and Graphql
 
 [![Follow @EfosaE](https://img.shields.io/github/followers/EfosaE?label=Follow&style=social)](https://github.com/EfosaE)
 
@@ -21,6 +21,7 @@ With expertise in Node.js, Express.js, Nest.js and React, I specialize in crafti
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
