@@ -1,6 +1,12 @@
 # 👋 Hello, I'm Efosa Osamwonyi!
 
-## 🚀 Software Developer
+<blockquote>
+  <em>“Don't be too confident, whether you believe you can or you can't — YOU ARE ABSOLUTELY RIGHT.”</em>
+</blockquote>
+
+<hr>
+
+## 🚀 IAM
 
 I'm a Software Developer with an obsession with programming stacks (basically, I try to learn everything 😁) and with a proven track record of building scalable, secure, and high-performance web applications.  
 With expertise in Node.js, Express.js, Nest.js and React, I specialize in crafting efficient and robust APIs and microservices alongside a fluid and responsive UI.
