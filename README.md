@@ -20,15 +20,23 @@ With expertise in **Go**, **Node.js**, **NestJS**, and **React**, I specialize i
 - 🤖 Currently diving into **machine learning**, with a focus on model training, evaluation, and real-world applications like **forecasting** and **RAG**.
 - 🤝 Open to collaborating on **fullstack apps**, **microservices**, and **API platforms**
 - ⚡ Ask me about:  
-  `Go · Node.js · Express.js · Nest.js · MongoDB · PostgreSQL · Redis · REST · GraphQL · React · TypeScript`
+  `Go · Node.js · Express.js · Nest.js · MongoDB · PostgreSQL · Redis · Payment Integration · GraphQL · React · TypeScript · Python for ML`
 
 ---
 
 ## 🧠 Technical Skillset
 
 #### 🔷 Languages & Frameworks
-- Go (Golang), JavaScript (ES6+), TypeScript, Bash, Python.
-- Express.js, Nest.js, Fiber, Gin, React, Next.js
+- Go (Golang), JavaScript (ES6+), TypeScript, Bash, Python for ML.
+- Express.js, Nest.js, Chi, React, Next.js
+
+#### 🤖 Machine Learning
+- Data preprocessing and feature engineering (pandas, NumPy, scikit-learn)
+- Model development and training (TensorFlow/Keras, PyTorch, scikit-learn)
+- Experiment tracking and reproducibility (MLflow, Weights & Biases)
+- Model evaluation and validation (cross-validation, metrics, confusion matrix, ROC/AUC)
+- Deployment and monitoring (FastAPI, Docker, OpenTelemetry for ML observability)
+
 
 #### 🗃️ Databases & Queues
 - PostgreSQL, MongoDB, Redis (Streams & Caching)
@@ -52,8 +60,8 @@ With expertise in **Go**, **Node.js**, **NestJS**, and **React**, I specialize i
 ## 🧩 Projects I've Built
 
 - **Credora** – Fintech simulation app with Monnify API, Go, PostgreSQL, and Redis
-- **Vaultix** – Secure file storage service in Go with Dockerized auth and storage
-- **Anambra State Website** – Government website using Next.js + Strapi (GraphQL CMS)
+- **Time-Series** – A repo (code + notebook) housing a custom built model for predicitng food prices in nigeria and an etl pipeline for the foundational time-series dataset
+- **Anambra State Website** – Government website using Next.js + Strapi (GraphQL CMS) and the use of GraphRAG(LangChain) and JSONloader to implemement a chat interface tailored to the CMS
 
 ---
 
