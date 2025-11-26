@@ -6,7 +6,7 @@
 </blockquote>  
 <hr />
 
-I'm a software engineer passionate about building scalable systems, solving real-world problems, and writing clean, maintainable code.
+Software developer with a strong focus on scalable backend systems, clean architecture, and real-world problem solving. Currently expanding into financial technology, with an interest in payments, banking infrastructure, and distributed systems.
 
 With expertise in **Go**, **Node.js**, **NestJS**, and **React**, I specialize in crafting efficient APIs and microservices alongside fluid, responsive user interfaces. I'm deeply curious and enjoy learning the inner workings of software systems — from infrastructure to UI.
 
@@ -59,9 +59,10 @@ With expertise in **Go**, **Node.js**, **NestJS**, and **React**, I specialize i
 
 ## 🧩 Projects I've Built
 
-- **Credora** – Fintech simulation app with Monnify API, Go, PostgreSQL, and Redis
-- **Time-Series** – A repo (code + notebook) housing a custom built model for predicitng food prices in nigeria and an etl pipeline for the foundational time-series dataset
-- **Anambra State Website** – Government website using Next.js + Strapi (GraphQL CMS) and the use of GraphRAG(LangChain) and JSONloader to implemement a chat interface tailored to the CMS
+- **[Credora](https://github.com/EfosaE/credora-backend)** – Fintech simulation app built with the Monnify API, Go, PostgreSQL, and Redis  
+- **[Time-Series](https://github.com/EfosaE/time-series)** – Repository (code + notebook) containing a custom-built model for predicting food prices in Nigeria, along with an ETL pipeline for the foundational time-series dataset  
+- **[Anambra State Website](https://github.com/EfosaE/anambra-website-main)** – Anambra State Government website built with Next.js and Strapi (GraphQL CMS), featuring a CMS-tailored chat interface using GraphRAG (LangChain), Gemini Model, Cohere Vector Embeddings.
+
 
 ---
 
