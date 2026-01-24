@@ -20,7 +20,7 @@ With expertise in **Go**, **Node.js**, **NestJS**, and **React**, I specialize i
 - 🤖 Currently diving into **machine learning**, with a focus on model training, evaluation, and real-world applications like **forecasting** and **RAG**.
 - 🤝 Open to collaborating on **fullstack apps**, **microservices**, and **API platforms**
 - ⚡ Ask me about:  
-  `Go · Node.js · Express.js · Nest.js · MongoDB · PostgreSQL · Redis · Payment Integration · GraphQL · React · TypeScript · Python for ML`
+  `Go · Node.js · Express.js · Nest.js · MongoDB · PostgreSQL · Redis · Payment Integration · GraphQL · React · TypeScript · Python for ML · AI Agents`
 
 ---
 
@@ -35,11 +35,11 @@ With expertise in **Go**, **Node.js**, **NestJS**, and **React**, I specialize i
 - Model development and training (TensorFlow/Keras, PyTorch, scikit-learn)
 - Experiment tracking and reproducibility (MLflow, Weights & Biases)
 - Model evaluation and validation (cross-validation, metrics, confusion matrix, ROC/AUC)
-- Deployment and monitoring (FastAPI, Docker, OpenTelemetry for ML observability)
+- Deployment and monitoring (FastAPI, Docker)
 
 
 #### 🗃️ Databases & Queues
-- PostgreSQL, MongoDB, Redis (Streams & Caching)
+- PostgreSQL, MongoDB, Redis, Sqlite (Streams & Caching)
 - Event Bus patterns & Pub/Sub systems
 
 #### 🧱 Architecture & Patterns
@@ -58,11 +58,10 @@ With expertise in **Go**, **Node.js**, **NestJS**, and **React**, I specialize i
 ---
 
 ## 🧩 Projects I've Built
-
+- **[Sentinel](https://github.com/EfosaE/sentinel)** – Fintech transaction auditing agent using simulated Rulebook in tandem with basic financial operations and LLMs to parse stored trnsaction records (sqlite)  
 - **[Credora](https://github.com/EfosaE/credora-backend)** – Fintech simulation app built with the Monnify API, Go, PostgreSQL, and Redis  
 - **[Time-Series](https://github.com/EfosaE/time-series)** – Repository (code + notebook) containing a custom-built model for predicting food prices in Nigeria, along with an ETL pipeline for the foundational time-series dataset  
 - **[Anambra State Website](https://github.com/EfosaE/anambra-website-main)** – Anambra State Government website built with Next.js and Strapi (GraphQL CMS), featuring a CMS-tailored chat interface using GraphRAG (LangChain), Gemini Model, Cohere Vector Embeddings.
-
 
 ---
 
