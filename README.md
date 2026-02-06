@@ -58,7 +58,8 @@ With expertise in **Go**, **Node.js**, **NestJS**, and **React**, I specialize i
 ---
 
 ## 🧩 Projects I've Built
-- **[Sentinel](https://github.com/EfosaE/sentinel)** – Fintech transaction auditing agent using simulated Rulebook in tandem with basic financial operations and LLMs to parse stored trnsaction records (sqlite)  
+- **[Voice-Agent](https://github.com/EfosaE/voice-agent)** – AI call agent tailored to your particular business domain like technical support, audio lessons, product enquires etc built using Langchain, AssemblyAI, Cartesia amd Gemini model.
+- **[Sentinel](https://github.com/EfosaE/sentinel)** – Fintech transaction auditing agent using simulated Rulebook in tandem with basic financial operations and LLMs to parse stored trnsaction records (sqlite) 
 - **[Credora](https://github.com/EfosaE/credora-backend)** – Fintech simulation app built with the Monnify API, Go, PostgreSQL, and Redis  
 - **[Time-Series](https://github.com/EfosaE/time-series)** – Repository (code + notebook) containing a custom-built model for predicting food prices in Nigeria, along with an ETL pipeline for the foundational time-series dataset  
 - **[Anambra State Website](https://github.com/EfosaE/anambra-website-main)** – Anambra State Government website built with Next.js and Strapi (GraphQL CMS), featuring a CMS-tailored chat interface using GraphRAG (LangChain), Gemini Model, Cohere Vector Embeddings.
